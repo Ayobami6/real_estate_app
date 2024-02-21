@@ -1,0 +1,2 @@
+2024-02-21 17:03:25,666 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-02-21 17:03:54,571 - django.request - WARNING - Not Found: /wee
