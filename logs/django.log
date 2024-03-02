@@ -6,3 +6,6 @@
 2024-03-01 15:00:13,854 - django.request - WARNING - Not Found: /
 2024-03-01 15:00:14,224 - django.request - WARNING - Not Found: /
 2024-03-01 15:00:14,969 - django.request - WARNING - Not Found: /favicon.ico
+2024-03-02 02:54:22,840 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 02:54:30,308 - django.request - WARNING - Not Found: /
+2024-03-02 02:54:30,391 - django.request - WARNING - Not Found: /favicon.ico
