@@ -9,3 +9,427 @@
 2024-03-02 02:54:22,840 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
 2024-03-02 02:54:30,308 - django.request - WARNING - Not Found: /
 2024-03-02 02:54:30,391 - django.request - WARNING - Not Found: /favicon.ico
+2024-03-02 09:59:26,838 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:02:17,996 - django.request - WARNING - Not Found: /api/register
+2024-03-02 10:04:33,570 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\real_estate_app\urls.py changed, reloading.
+2024-03-02 10:04:35,554 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:04:55,045 - apps.users.views - ERROR - The field 'password2' was declared on serializer UserSerializer, but has not been included in the 'fields' option.
+2024-03-02 10:04:55,057 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:05:59,734 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 10:06:01,205 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:06:12,630 - apps.users.views - ERROR - The field 'password' was declared on serializer UserSerializer, but has not been included in the 'fields' option.
+2024-03-02 10:06:12,638 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:06:52,082 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 10:06:53,381 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:11:36,723 - apps.users.views - ERROR - type object 'User' has no attribute 'objects'
+2024-03-02 10:11:36,725 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:14:38,622 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 10:14:40,093 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:14:47,229 - apps.users.views - ERROR - Cannot resolve keyword 'username' into field. Choices are: email, first_name, id, last_login, last_name, password, pkid
+2024-03-02 10:14:47,244 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:15:58,086 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 10:16:00,143 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:16:20,529 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 10:16:21,869 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:17:48,489 - apps.users.views - ERROR - Cannot assign "<User: truebone005@gmail.com>": "Token.user" must be a "User" instance.
+2024-03-02 10:17:48,495 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:20:37,759 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 10:20:39,439 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:20:48,696 - apps.users.views - ERROR - UNIQUE constraint failed: users_user.username
+2024-03-02 10:20:48,733 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:21:48,835 - django.request - WARNING - Not Found: /
+2024-03-02 10:21:48,994 - django.request - WARNING - Not Found: /
+2024-03-02 10:21:49,026 - django.request - WARNING - Not Found: /favicon.ico
+2024-03-02 10:22:17,399 - apps.users.views - ERROR - UNIQUE constraint failed: users_user.username
+2024-03-02 10:22:17,403 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:22:34,419 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 10:22:36,048 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:22:40,530 - apps.users.views - ERROR - UNIQUE constraint failed: users_user.username
+2024-03-02 10:22:40,540 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:23:06,920 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:23:10,799 - apps.users.views - ERROR - UNIQUE constraint failed: users_user.username
+2024-03-02 10:23:10,814 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:26:45,552 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:26:49,558 - apps.users.views - ERROR - UNIQUE constraint failed: users_user.email
+2024-03-02 10:26:49,571 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:28:34,431 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 10:28:35,626 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:29:22,126 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 10:29:23,628 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:29:41,809 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 10:29:43,214 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:29:57,554 - apps.users.views - ERROR - UserManager.create_user() missing 1 required positional argument: 'password'
+2024-03-02 10:29:57,559 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:31:04,935 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 10:31:07,287 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:31:20,444 - apps.users.views - ERROR - 'password1'
+2024-03-02 10:31:20,451 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:32:42,600 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 10:32:45,275 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:32:54,649 - django.request - WARNING - Bad Request: /api/register
+2024-03-02 10:33:12,432 - apps.users.views - ERROR - Cannot assign "2": "Token.user" must be a "User" instance.
+2024-03-02 10:33:12,448 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:33:36,206 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 10:33:39,047 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:33:42,752 - django.request - WARNING - Bad Request: /api/register
+2024-03-02 10:33:54,856 - apps.users.views - ERROR - UNIQUE constraint failed: users_user.email
+2024-03-02 10:33:54,875 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:34:30,986 - django.request - WARNING - Not Found: /favicon.ico
+2024-03-02 10:35:26,792 - apps.users.views - ERROR - Cannot assign "<User: >": "Token.user" must be a "User" instance.
+2024-03-02 10:35:26,797 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:36:19,480 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 10:36:22,275 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:36:25,392 - django.request - WARNING - Bad Request: /api/register
+2024-03-02 10:36:57,639 - apps.users.views - ERROR - UNIQUE constraint failed: users_user.email
+2024-03-02 10:36:57,675 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:38:56,845 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 10:39:03,427 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:39:10,285 - apps.users.views - ERROR - UNIQUE constraint failed: users_user.email
+2024-03-02 10:39:10,306 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:40:11,738 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 10:40:15,020 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:40:38,850 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:40:48,231 - apps.users.views - ERROR - Cannot assign "<User: >": "Token.user" must be a "User" instance.
+2024-03-02 10:40:48,246 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:41:31,473 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 10:41:34,702 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:41:52,510 - apps.users.views - ERROR - Cannot assign "<User: >": "Token.user" must be a "User" instance.
+2024-03-02 10:41:52,522 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:42:31,057 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 10:42:34,304 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:42:43,757 - apps.users.views - ERROR - Cannot assign "<User: >": "Token.user" must be a "User" instance.
+2024-03-02 10:42:43,768 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:43:03,296 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 10:43:06,639 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:43:10,430 - apps.users.views - ERROR - Cannot assign "7": "Token.user" must be a "User" instance.
+2024-03-02 10:43:10,445 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:44:10,574 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 10:44:14,024 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:44:24,289 - apps.users.views - ERROR - Cannot assign "8": "Token.user" must be a "User" instance.
+2024-03-02 10:44:24,303 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:45:00,306 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 10:45:02,897 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:45:07,265 - apps.users.views - ERROR - Cannot assign "9": "Token.user" must be a "User" instance.
+2024-03-02 10:45:07,275 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:45:28,262 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 10:45:31,677 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:45:35,044 - apps.users.views - ERROR - Cannot assign "<User: truebone005@gmail.com>": "Token.user" must be a "User" instance.
+2024-03-02 10:45:35,052 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:51:37,550 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 10:51:40,540 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:52:06,235 - apps.users.views - ERROR - `create()` did not return an object instance.
+2024-03-02 10:52:06,242 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:52:32,489 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 10:52:35,166 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:52:49,486 - apps.users.views - ERROR - Cannot assign "<User: truebone005@gmail.com>": "Token.user" must be a "User" instance.
+2024-03-02 10:52:49,502 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:55:23,622 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 10:55:26,229 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:55:29,225 - apps.users.views - ERROR - Cannot assign "<User: truebone005@gmail.com>": "Token.user" must be a "User" instance.
+2024-03-02 10:55:29,244 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 10:58:33,636 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 10:58:36,568 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 10:58:59,527 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 10:59:01,931 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 11:00:22,570 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 11:00:26,149 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 11:01:47,898 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\admin.py changed, reloading.
+2024-03-02 11:01:51,296 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 11:02:12,445 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 11:02:15,042 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 11:26:10,016 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 11:27:19,167 - django.request - WARNING - Not Found: /sec101/auth/user/1/change/
+2024-03-02 11:27:40,228 - apps.users.views - ERROR - UserManager.create_user() missing 1 required positional argument: 'username'
+2024-03-02 11:27:40,238 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 11:32:05,586 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 11:32:08,108 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 11:32:10,367 - apps.users.views - ERROR - UserManager.create_user() missing 1 required positional argument: 'username'
+2024-03-02 11:32:10,371 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 11:32:29,809 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 11:33:13,080 - apps.users.views - ERROR - UserManager.create_user() missing 1 required positional argument: 'username'
+2024-03-02 11:33:13,086 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 11:33:58,830 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 11:34:01,618 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 11:34:06,153 - apps.users.views - ERROR - 'CustomUser' object has no attribute 'pkid'
+2024-03-02 11:34:06,156 - django.request - ERROR - Internal Server Error: /api/register
+2024-03-02 11:34:36,161 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 11:34:38,925 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 11:34:42,479 - django.request - WARNING - Bad Request: /api/register
+2024-03-02 11:34:54,343 - django.request - WARNING - Bad Request: /api/register
+2024-03-02 11:47:28,626 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 11:47:31,764 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 11:54:19,665 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 11:54:22,510 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 11:54:46,141 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 11:54:48,851 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 11:55:57,793 - django.request - WARNING - Bad Request: /api/register
+2024-03-02 11:56:42,492 - django.request - WARNING - Bad Request: /api/register
+2024-03-02 11:56:59,661 - django.request - WARNING - Bad Request: /api/register
+2024-03-02 11:57:53,721 - django.request - WARNING - Not Found: /favicon.ico
+2024-03-02 11:58:02,773 - django.request - WARNING - Not Found: /favicon.ico
+2024-03-02 11:59:55,707 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\models.py changed, reloading.
+2024-03-02 11:59:58,466 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:04:47,188 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 12:04:49,551 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:11:35,683 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 12:11:39,457 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:12:05,237 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 12:12:07,522 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:14:03,133 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 12:14:05,984 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:15:42,848 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 12:15:48,296 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:16:33,847 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 12:16:36,705 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:17:10,268 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 12:17:13,600 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:17:45,280 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 12:17:48,848 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:18:27,382 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 12:18:29,815 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:18:49,258 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 12:18:51,001 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:19:33,927 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\urls.py changed, reloading.
+2024-03-02 12:19:36,896 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:19:45,856 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\urls.py changed, reloading.
+2024-03-02 12:19:48,151 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:21:00,915 - apps.users.views - ERROR - Class LoginSerializer missing "Meta" attribute
+2024-03-02 12:21:00,924 - django.request - ERROR - Internal Server Error: /api/login
+2024-03-02 12:22:11,673 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 12:22:14,965 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:22:18,800 - apps.users.views - ERROR - ("Creating a ModelSerializer without either the 'fields' attribute or the 'exclude' attribute has been deprecated since 3.3.0, and is now disallowed. Add an explicit fields = '__all__' to the LoginSerializer serializer.",)
+2024-03-02 12:22:18,810 - django.request - ERROR - Internal Server Error: /api/login
+2024-03-02 12:22:35,286 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 12:22:38,123 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:22:40,411 - apps.users.views - ERROR - {'email': [ErrorDetail(string='This field is required.', code='required')]}
+2024-03-02 12:22:40,417 - django.request - ERROR - Internal Server Error: /api/login
+2024-03-02 12:23:05,211 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 12:23:07,910 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:23:11,861 - apps.users.views - ERROR - Class LoginSerializer missing "Meta.model" attribute
+2024-03-02 12:23:11,870 - django.request - ERROR - Internal Server Error: /api/login
+2024-03-02 12:23:56,420 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 12:24:00,416 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:24:03,901 - apps.users.views - ERROR - {'email': [ErrorDetail(string='This field is required.', code='required')]}
+2024-03-02 12:24:03,908 - django.request - ERROR - Internal Server Error: /api/login
+2024-03-02 12:24:37,371 - apps.users.views - ERROR - cannot unpack non-iterable Token object
+2024-03-02 12:24:37,377 - django.request - ERROR - Internal Server Error: /api/login
+2024-03-02 12:25:00,270 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 12:25:02,966 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:25:36,898 - apps.users.views - ERROR - {'username': [ErrorDetail(string='This field is required.', code='required')]}
+2024-03-02 12:25:36,902 - django.request - ERROR - Internal Server Error: /api/login
+2024-03-02 12:26:19,534 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 12:26:22,929 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:26:25,743 - apps.users.views - ERROR - {'email': [ErrorDetail(string='CustomUser with this Email Address already exists.', code='unique')], 'username': [ErrorDetail(string='This field is required.', code='required')]}
+2024-03-02 12:26:25,749 - django.request - ERROR - Internal Server Error: /api/login
+2024-03-02 12:26:54,413 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 12:26:57,298 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:27:41,232 - apps.users.views - ERROR - {'username': [ErrorDetail(string='This field is required.', code='required')]}
+2024-03-02 12:27:41,236 - django.request - ERROR - Internal Server Error: /api/login
+2024-03-02 12:28:55,151 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\serializers.py changed, reloading.
+2024-03-02 12:28:57,878 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:37:15,963 - apps.users.views - ERROR - {'error': [ErrorDetail(string='Invalid credentials', code='invalid')]}
+2024-03-02 12:37:15,965 - django.request - ERROR - Internal Server Error: /api/login
+2024-03-02 12:43:33,135 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 12:43:38,241 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:43:45,438 - django.request - ERROR - Internal Server Error: /api/login
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py", line 41, in post
+    serializer.is_valid(raise_exception=True)
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\serializers.py", line 228, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'error': [ErrorDetail(string='Invalid credentials', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py", line 49, in post
+    return JsonResponse({'error': e}, status=400)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\http\response.py", line 606, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\core\serializers\json.py", line 105, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type ValidationError is not JSON serializable
+2024-03-02 12:43:57,946 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 12:44:00,503 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:44:02,729 - django.request - ERROR - Internal Server Error: /api/login
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\renderers.py", line 100, in render
+    ret = json.dumps(
+          ^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\utils\encoders.py", line 67, in default
+    return super().default(obj)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type ValidationError is not JSON serializable
+2024-03-02 12:44:46,510 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 12:44:49,299 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:44:52,682 - django.request - ERROR - Internal Server Error: /api/login
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py", line 43, in post
+    serializer.is_valid(raise_exception=True)
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\serializers.py", line 228, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'error': [ErrorDetail(string='Invalid credentials', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py", line 51, in post
+    error = json.dumps(e)
+            ^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type ValidationError is not JSON serializable
+2024-03-02 12:45:24,814 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 12:45:27,610 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:45:29,694 - django.request - ERROR - Internal Server Error: /api/login
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py", line 43, in post
+    serializer.is_valid(raise_exception=True)
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\serializers.py", line 228, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'error': [ErrorDetail(string='Invalid credentials', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\DELL\Desktop\real_estate_app\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py", line 51, in post
+    error = json.dumps(e)
+            ^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type ValidationError is not JSON serializable
+2024-03-02 12:46:12,391 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 12:46:15,253 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:46:19,725 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 12:46:22,154 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:46:25,820 - apps.users.views - ERROR - 'user'
+2024-03-02 12:46:25,823 - django.request - ERROR - Internal Server Error: /api/login
+2024-03-02 12:48:39,617 - django.utils.autoreload - INFO - C:\Users\DELL\Desktop\real_estate_app\apps\users\views.py changed, reloading.
+2024-03-02 12:48:42,187 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2024-03-02 12:48:45,488 - django.request - WARNING - Bad Request: /api/login
+2024-03-02 12:49:34,520 - django.request - WARNING - Bad Request: /api/login
+2024-03-02 12:49:48,940 - django.request - WARNING - Bad Request: /api/login
